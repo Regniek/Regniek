@@ -31,6 +31,7 @@ Soy ingeniero Mecánico de la Univerdidad Francisco Jose de Caldas, y en este mo
 <img align="left" alt="Regniek's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=regniek&show_icons=true&hide_border=true" />
 </br>
 </br>
+
 ### Encuentrame en:
 
 
@@ -42,6 +43,7 @@ Soy ingeniero Mecánico de la Univerdidad Francisco Jose de Caldas, y en este mo
 
 </br>
 </br>
+
 ### PostData:
 
 no olvides pasar por [Regniek.dev](http://www.regniek.dev), y recuerda cualquier feedback es amor y lo recibire con gusto, gracias por leerme.
