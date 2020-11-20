@@ -1,14 +1,14 @@
-# Software_Engineere_Coming_Soon
+
 
 ### Hola, soy Juan Espitia - Regniek 🚲
 
 
- Este Github es un lugar creado para compartir el conocimiento que voy adquiriendo con el mundo en mi paso a ser un gran ingeniero de software.
+ Este Github es un lugar creado para compartir el conocimiento que voy adquiriendo con el mundo en mi paso a ser un gran desarrollador.
 
 
 ### Acerca de 
 
-Soy un gran soñador, ademas de ser una persona creativa, desde muy chico me gustaron mucho las matematicas y juegos de logica, cosas que poco a poco me irian acercado al mundo de la tecnologia, algunas de mis pasiones son dibujar montar en bicicleta e incluso escribir codigo, pero sobretodo aprender y nunca para de hacerlo, no quedarme quieto es mi eslogan.
+Soy un gran soñador, ademas de ser una persona creativa, desde muy chico me gustaron mucho las matematicas y juegos de logica, cosas que poco a poco me irian acercando al mundo de la tecnologia, algunas de mis pasiones son dibujar montar en bicicleta e incluso escribir codigo, pero sobretodo aprender y nunca para de hacerlo, no quedarme quieto es mi eslogan.
 
 Soy ingeniero Mecánico de la Univerdidad Francisco Jose de Caldas, y en este momento pertenesco a uno de los programas mas importantes de educación en tecnologia en latino america [Platzi](https://www.platzi.com)-Master esto solo como un gran paso en este mundo del desarrollo de software.
 
