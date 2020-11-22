@@ -10,7 +10,7 @@
 
 Soy un gran soñador, ademas de ser una persona creativa, desde muy chico me gustaron mucho las matematicas y juegos de logica, cosas que poco a poco me irian acercando al mundo de la tecnologia, algunas de mis pasiones son dibujar montar en bicicleta e incluso escribir codigo, pero sobretodo aprender y nunca para de hacerlo, no quedarme quieto es mi eslogan.
 
-Soy ingeniero Mecánico de la Univerdidad Francisco Jose de Caldas, y en este momento pertenesco a uno de los programas mas importantes de educación en tecnologia en latino america [Platzi](https://www.platzi.com)-Master esto solo como un gran paso en este mundo del desarrollo de software.
+Soy ingeniero Mecánico de la Universidad Francisco José de Caldas, y en este momento pertenesco a uno de los programas mas importantes de educación en tecnologia en latino america [Platzi](https://www.platzi.com)-Master esto solo como un gran paso en este mundo del desarrollo de software.
 
 ### Lenguajes y Tecnologias
 
