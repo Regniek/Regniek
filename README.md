@@ -1,6 +1,6 @@
 
 
-### Hola, soy Juan Espitia - Regniek 🚲
+### Hola, soy Camilo Espitia - Regniek 🚲
 
 
  Este Github es un lugar creado para compartir el conocimiento que voy adquiriendo con el mundo en mi paso a ser un gran desarrollador.
@@ -14,13 +14,13 @@ Soy ingeniero Mecánico de la Universidad Francisco José de Caldas, y en este m
 
 ### Lenguajes y Tecnologias
 
+* Ruby
+* Rails
 * Javascript
 * Node Js
-* Python
 * CSS
 * HTML
 * SASS
-* Pug
 * Express
 * Paquete Office(excel avanzado)
 </br>
