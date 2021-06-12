@@ -26,9 +26,11 @@ Soy ingeniero Mecánico de la Universidad Francisco José de Caldas, y en este m
 </br>
 </br>
 ---
+### Some Stats
 
-### Algo de lo que he logrado compartir
-<img align="left" alt="Regniek's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=regniek&show_icons=true&hide_border=true" />
+![Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=regniek&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=regniek&theme=radical)
+
 </br>
 </br>
 
