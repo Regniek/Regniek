@@ -25,7 +25,7 @@ Soy ingeniero Mecánico de la Universidad Francisco José de Caldas, y en este m
 * Paquete Office(excel avanzado)
 </br>
 </br>
----
+
 ### Some Stats
 
 ![Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=regniek&theme=radical)
