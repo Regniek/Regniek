@@ -48,10 +48,6 @@ Soy ingeniero Mecánico de la Universidad Francisco José de Caldas, y en este m
 ### Encuentrame en:
 
 
-[twitter](https://twitter.com/juanregniek) 
-
-[instagram](https://instagram.com/juanregniek)
-
 [linkedin](https://linkedin.com/in/juanregniek)
 
 </br>
