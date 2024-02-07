@@ -1,6 +1,6 @@
 
 
-### Hola, soy Camilo Espitia - Regniek 🚲
+### Hola, soy Juan Camilo Espitia - Regniek 🚲
 
 
  Este Github es un lugar creado para compartir el conocimiento que voy adquiriendo con el mundo en mi paso a ser un gran desarrollador.
