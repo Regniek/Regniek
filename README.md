@@ -48,11 +48,11 @@ Soy ingeniero Mecánico de la Universidad Francisco José de Caldas, y en este m
 ### Encuentrame en:
 
 
-[linkedin](https://linkedin.com/in/juanregniek)
+[linkedin](https://linkedin.com/in/camilo-regniek)
 
 </br>
 </br>
 
 ### PostData:
 
-no olvides pasar por [Regniek.dev](http://www.regniek.dev), y recuerda cualquier feedback es amor y lo recibire con gusto, gracias por leerme.
+no olvides pasar por [Regniek.dev](http://www.juanespitia.com), y recuerda cualquier feedback es amor y lo recibire con gusto, gracias por leerme.
