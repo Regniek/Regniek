@@ -16,10 +16,7 @@ Creo en aprender en público, compartir lo que sé y nunca dejar de moverme — 
 
 ## Stack actual
 
-**Backend:** Ruby · Go · TypeScript · Node.js  
-**Arquitectura:** Kafka · Event-driven · CDC · Strangler Fig Pattern  
-**Infra:** AWS · Docker · Kubernetes  
-**Dominio:** Pagos digitales · PCI-DSS · PayFac · EMV · SoftPOS
+[![Skills](https://skillicons.dev/icons?i=ruby,rails,go,ts,nodejs,kafka,aws,docker,kubernetes&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -31,16 +28,9 @@ Creo en aprender en público, compartir lo que sé y nunca dejar de moverme — 
 
 ---
 
-## Stats
+## Trofeos
 
-<div align="center">
-  <a href="https://github.com/regniek">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regniek&theme=dracula&count_private=true&hide=css,blade" />
-  </a>
-  <a href="https://github.com/regniek">
-    <img src="https://github-readme-stats.vercel.app/api?username=regniek&count_private=true&show_icons=true&theme=dracula" />
-  </a>
-</div>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=regniek&theme=dracula&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
