@@ -28,12 +28,6 @@ Creo en aprender en público, compartir lo que sé y nunca dejar de moverme — 
 
 ---
 
-## Trofeos
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=regniek&theme=dracula&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## Encuéntrame
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-camilo--regniek-blue?logo=linkedin)](https://linkedin.com/in/camilo-regniek)
