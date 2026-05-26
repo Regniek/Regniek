@@ -1,58 +1,52 @@
+# Juan Camilo Espitia · Regniek 👋
 
+Technical Lead en fintech colombiano · Sistemas distribuidos · Event-driven architecture
 
-### Hola, soy Juan Camilo Espitia - Regniek 🚲
+> *"No quedarme quieto es mi eslogan."*
 
+---
 
- Este Github es un lugar creado para compartir el conocimiento que voy adquiriendo con el mundo en mi paso a ser un gran desarrollador.
+## Sobre mí
 
+Ingeniero Mecánico reconvertido en desarrollador de software, hoy liderando equipos de ingeniería en el ecosistema de pagos latinoamericano. Me muevo entre el diseño de arquitecturas event-driven, la implementación de sistemas distribuidos y la aplicación de IA en contextos fintech regulados.
 
-### Acerca de 
+Creo en aprender en público, compartir lo que sé y nunca dejar de moverme — en bicicleta o en código.
 
-Soy un gran soñador, ademas de ser una persona creativa, desde muy chico me gustaron mucho las matematicas y juegos de logica, cosas que poco a poco me irian acercando al mundo de la tecnologia, algunas de mis pasiones son dibujar montar en bicicleta e incluso escribir codigo, pero sobretodo aprender y nunca para de hacerlo, no quedarme quieto es mi eslogan.
+---
 
-Soy ingeniero Mecánico de la Universidad Francisco José de Caldas, y en este momento pertenesco a uno de los programas mas importantes de educación en tecnologia en latino america [Platzi](https://www.platzi.com)-Master esto solo como un gran paso en este mundo del desarrollo de software.
+## Stack actual
 
-### Lenguajes y Tecnologias
+**Backend:** Ruby · Go · TypeScript · Node.js  
+**Arquitectura:** Kafka · Event-driven · CDC · Strangler Fig Pattern  
+**Infra:** AWS · Docker · Kubernetes  
+**Dominio:** Pagos digitales · PCI-DSS · PayFac · EMV · SoftPOS
 
-* Ruby
-* Rails
-* Javascript
-* Node Js
-* CSS
-* HTML
-* SASS
-* Express
-* Paquete Office(excel avanzado)
-</br>
-</br>
+---
 
-### Some Stats
+## En qué estoy trabajando
 
+- 🏗️ Migración de arquitectura monolítica → event-driven con Kafka y CDC  
+- 🤖 Sistemas multi-agente aplicados a operaciones de ingeniería  
+- 📈 Carrera hacia Staff/Principal Engineer
 
+---
 
-<h3>GitHub Stats</h3>
+## Stats
+
 <div align="center">
-<a href="https://github.com/regniek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regniek&theme=dracula&count_private=true&hide=css,blade" alt="regniek's GitHub Stats" />
-</a>
-
-<a href="https://github.com/regneik">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=regniek&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="regniek's GitHub Stats"/>
-</a>
+  <a href="https://github.com/regniek">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=regniek&theme=dracula&count_private=true&hide=css,blade" />
+  </a>
+  <a href="https://github.com/regniek">
+    <img src="https://github-readme-stats.vercel.app/api?username=regniek&count_private=true&show_icons=true&theme=dracula" />
+  </a>
 </div>
 
+---
 
-</br>
-</br>
+## Encuéntrame
 
-### Encuentrame en:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-camilo--regniek-blue?logo=linkedin)](https://linkedin.com/in/camilo-regniek)
+[![Web](https://img.shields.io/badge/Web-juanespitia.com-black?logo=firefox)](http://www.juanespitia.com)
 
-
-[linkedin](https://linkedin.com/in/camilo-regniek)
-
-</br>
-</br>
-
-### PostData:
-
-no olvides pasar por [Regniek.dev](http://www.juanespitia.com), y recuerda cualquier feedback es amor y lo recibire con gusto, gracias por leerme.
+*Cualquier feedback es amor — gracias por leerme.*
